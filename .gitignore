@@ -14,6 +14,9 @@ CLAUDE.md
 .vercel
 prompts/
 
+# Local env files (do not commit)
+docker/backend/.env
+docker/frontend/.env
 
 /playground/**
 /playground/
